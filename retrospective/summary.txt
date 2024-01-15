@@ -1,0 +1,16 @@
+"summary"
+How the merger conflict in part E1 was resolved?
+
+-A merge conflict was introduced when changes were made to the same lines in the 'README.md' file on both the "Working" and "Test" branches.
+-It was detected when trying to merge the "Test" branch into the "Working" branch.
+-The conflict was manually resolved by opening the README.md file in a test editor. The conflicting lines were manually edited to incorporate the desired changes from both branches.
+-After it was resolved, the README.md file included both the updated git version from the "Working" branch and the sutdent ID addition from the "Test" branch.
+-Then the changes were staged and commited.
+
+
+
+Describe the three changes that you made in part C1.
+
+-Removed the H2 header in the 'wgu.html' file.
+-Added H2 header in 'HelloWorld.html' file.
+-Added a third paragraph in the 'GitHub.html' file.
